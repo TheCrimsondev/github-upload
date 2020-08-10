@@ -1,4 +1,10 @@
-.idea
+.idea/
+prueba/
+
 .vscode
+
 __pycache__
+
 database.txt
+
+.gitignore
